@@ -1,0 +1,27 @@
+{
+  "name": "slack-help-bot",
+  "version": "1.0.0",
+  "description": "A Slack help bot for the Learn to Code at the Denver Library group.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-to-code-denver/slack-help-bot"
+  },
+  "keywords": [
+    "slackbot",
+    "bot",
+    "slack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learn-to-code-denver/slack-help-bot/issues"
+  },
+  "homepage": "https://github.com/learn-to-code-denver/slack-help-bot#readme",
+  "dependencies": {
+    "botkit": "0.0.5"
+  }
+}
